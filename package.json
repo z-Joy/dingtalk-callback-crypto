@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/z-Joy/dingtalk-callback-crypto/issues"
   },
-  "homepage": "https://github.com/z-Joy/dingtalk-callback-crypto#readme"
+  "homepage": "https://github.com/z-Joy/dingtalk-callback-crypto#readme",
+  "dependencies": {
+    "rollup": "^2.52.7"
+  }
 }
