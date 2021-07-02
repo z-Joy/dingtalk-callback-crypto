@@ -1,0 +1,23 @@
+{
+  "name": "dingtalk-callback-crypto",
+  "version": "1.0.0",
+  "description": "钉钉事件订阅回调加解密",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z-Joy/dingtalk-callback-crypto.git"
+  },
+  "keywords": [
+    "node",
+    "dingtalk"
+  ],
+  "author": "z-joy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z-Joy/dingtalk-callback-crypto/issues"
+  },
+  "homepage": "https://github.com/z-Joy/dingtalk-callback-crypto#readme"
+}
